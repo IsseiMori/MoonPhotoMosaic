@@ -9,6 +9,6 @@ Copy and paste the output
 all alphabet moon emoji is in alphabet.txt
 
 ![image](images/IMG_5299.JPG)
-!image](images/IMG_5300.JPG)
+![image](images/IMG_5300.JPG)
 ![image](images/IMG_5302.JPG)
 ![image](images/IMG_5307.JPG)
